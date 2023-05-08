@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://github.com/tumainimaganiko/tumainimaganiko/blob/main/header.png?raw=true)
 <!--
 **tumainimaganiko/tumainimaganiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
