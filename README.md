@@ -18,7 +18,7 @@
 - ❓ Ask me about anything related to the IT field  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ I'm currently available for new opportunities please feel free to reach out to me 
 <br/>  
 
 
