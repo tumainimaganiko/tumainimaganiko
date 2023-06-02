@@ -44,6 +44,65 @@
 
 # 💻 Tech Stack:
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+## ✨ Skills 💻
+
+### Front-end Languages & Frameworks
+ 
+<p align="left">
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&animation=spin&svgfill=15d8fe" height="50">  
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=redux&svgfill=2d79c7&animation=spin" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26" height="50">
+ </a>
+</p>
+
+### Back-end Languages & Frameworks
+ 
+<p align="left">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
+ </a>
+</p>
+
+### Databases
+
+<p align="left">
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791" height="50">  
+ </a>
+</p>
+
+### Other Technologies
+
+<p align="left"> 
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Github" height="50">
+ </a>
+ <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=RestApi" height="50">
+ </a>
+</p>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tumainimaganiko&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tumainimaganiko&theme=dark&hide_border=false)<br/>
