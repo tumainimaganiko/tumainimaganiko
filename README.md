@@ -1,14 +1,18 @@
-### Hi there 👋
-![](https://github.com/tumainimaganiko/tumainimaganiko/blob/main/header.png?raw=true)
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
-
-### <div align="center">I'm Tumaini, a full-time full-stack developer 👨‍💻 working remotely 🚀</div>  
+<h1 align="center">Hi 👋, I'm Tumaini Maganiko </h1>
+ 
+<h3 align="center">a Full-stack web developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
   
+  <p align="center">
+  <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Software%20developer%20;1+%2B%20years%20of%20working%20experience;Being%20passionate%20and%20creative;Available%20for%20Hire;&center=true&width=380&height=45">
+  </a>
+</p>
+ 
 - 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)  
   
 
