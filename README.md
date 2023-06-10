@@ -71,25 +71,6 @@
  </a>
 </p>
 
-### Back-end Languages & Frameworks
- 
-<p align="left">
-  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
- </a>
-</p>
-
-### Databases
-
-<p align="left">
- <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f" height="50">
- </a>
- <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791" height="50">  
- </a>
-</p>
-
 ### Other Technologies
 
 <p align="left"> 
