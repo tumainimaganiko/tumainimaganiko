@@ -1,7 +1,7 @@
   
 <h1 align="center">Hi 👋, I'm Tumaini Maganiko </h1>
  
-<h3 align="center">a Full-stack web developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
+<h3 align="center">Front-end web developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
   
   <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
