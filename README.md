@@ -13,7 +13,7 @@
   </a>
 </p>
  
-- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/)  
+- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/?grsf=tumaini-ba-jdehw3)  
   
 
 - 🌱 I’m currently learning Front-end Development with React  and Backend development with Ruby  
