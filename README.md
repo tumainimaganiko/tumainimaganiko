@@ -60,14 +60,14 @@
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=webpack&svgfill=8ed5fa&animation=spin" height="50">
  </a>
- <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=sass&svgfill=cd6799" height="50">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=tailwindcss&svgfill=2d79c7&animation=spin" height="50">
  </a>
  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=264de4" height="50">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=CSS3&svgfill=2d79c7&animation=spin" height="50">
  </a>
  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=e34c26" height="50">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=HTML5&svgfill=2d79c7&animation=spin" height="50">
  </a>
 </p>
 
@@ -76,6 +76,9 @@
 <p align="left">
   <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f91401&animation=spin" height="50">
+ </a>
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rubyonrails&svgfill=2d79c7&animation=spin" height="50">
  </a>
 </p>
  
