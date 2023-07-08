@@ -16,7 +16,7 @@
 - 🔭 I’m currently studying at [Microverse](https://www.microverse.org/?grsf=tumaini-ba-jdehw3)  
   
 
-- 🌱 I’m currently learning Front-end Development with React  and Backend development with Ruby  
+- 🌱 I’m currently learning database and Backend development with Ruby language using the Ruby on Rails framework 
   
 
 - ❓ Ask me about anything related to the IT field  
