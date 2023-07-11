@@ -87,9 +87,6 @@
 
 <p align="left">
  <a href="#">
-  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=mysql&svgfill=00758f" height="50">
- </a>
- <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=postgresql&svgfill=336791" height="50">  
  </a>
 </p>
