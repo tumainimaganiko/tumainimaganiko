@@ -115,3 +115,6 @@
 
 
 <br/>
+<h3 align="center">To be continued...</h3>
+<p align="center">======================</p>
+<p align="center"><img src='https://github.com/amon-cofie/amon-cofie/blob/main/handshake.gif' width="100px"></p>
