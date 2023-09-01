@@ -1,4 +1,4 @@
-  
+  [![](https://visitcount.itsvg.in/api?id=tumainimaganiko&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Tumaini Maganiko </h1>
  
 <h3 align="center">A Full-stack web developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
@@ -111,7 +111,6 @@
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tumainimaganiko&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 <br/>
