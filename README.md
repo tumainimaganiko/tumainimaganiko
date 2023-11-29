@@ -1,7 +1,7 @@
   [![](https://visitcount.itsvg.in/api?id=tumainimaganiko&icon=0&color=0)](https://visitcount.itsvg.in)
 <h1 align="center">Hi 👋, I'm Tumaini Maganiko </h1>
  
-<h3 align="center">A Full-stack web developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
+<h3 align="center">A Front-end developer and enthusiastic learner who values accessible design and clean code. An enthusiast for remote work and pair programming. Fluent in a variety of languages, frameworks, and technologies.</h3>
   
   <p align="center">
   <img src="https://user-images.githubusercontent.com/46050946/154709509-cecdbcc3-20ed-4037-9046-99f7a05d5dbb.gif" />
@@ -13,11 +13,7 @@
   </a>
 </p>
  
-- 🔭 I’m currently studying at [Microverse](https://www.microverse.org/?grsf=tumaini-ba-jdehw3)  
-  
-
-- 🌱 I’m currently learning database and Backend development with Ruby language using the Ruby on Rails framework 
-  
+- 🔭 I’m currently working at [DataBalk](https://databalk.nu/)    
 
 - ❓ Ask me about anything related to the IT field  
   
