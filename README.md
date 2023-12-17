@@ -44,6 +44,9 @@
 ### Front-end Languages & Frameworks
  
 <p align="left">
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=f6df1c" height="50">
+ </a>
  <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c" height="50">
  </a>
