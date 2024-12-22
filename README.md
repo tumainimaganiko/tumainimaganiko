@@ -79,6 +79,12 @@
   <a href="#">
   <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rubyonrails&svgfill=2d79c7&animation=spin" height="50">
  </a>
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=csharp&svgfill=f91401&animation=spin" height="50">
+ </a>
+  <a href="#">
+  <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=.net&svgfill=f91401&animation=spin" height="50">
+ </a>
 </p>
  
 
